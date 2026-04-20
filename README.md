@@ -56,13 +56,5 @@ The model achieves:
 - Test set performance optimized for reducing false positives
 - Feature importance analysis to understand key churn predictors
 
-## Key Findings
-- The model successfully identifies churn patterns
-- Adjustable threshold allows tuning for business needs (e.g., minimizing false positives for retention campaigns)
-- Important features include usage frequency, support calls, and payment delay
-
-## Contributing
-Feel free to fork and improve the model or add new features.
-
 ## License
 This project is for educational purposes.
